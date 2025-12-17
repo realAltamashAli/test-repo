@@ -1,1 +1,3 @@
+Adding a new line
+Line from feature branch
 Line from main branch
